@@ -1,0 +1,4 @@
+a d g : 4
+a d g : 5
+sd sd sd : 4
+sd sd sd : 4

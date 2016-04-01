@@ -1,0 +1,633 @@
+1 : www.ics.uci.edu/
+2 : www.ics.uci.edu/about/about_deanmsg.php
+3 : www.ics.uci.edu/ugrad/
+4 : www.ics.uci.edu/about/about_safety.php
+5 : www.ics.uci.edu/community/alumni/
+6 : www.ics.uci.edu/about/bren/index.php
+7 : www.ics.uci.edu/ugrad/policies/Withdrawal_Readmission
+8 : www.ics.uci.edu/about/bren/
+9 : www.ics.uci.edu/ugrad/resources/index.php
+10 : www.ics.uci.edu/ugrad/index.php
+11 : www.ics.uci.edu/community/alumni/index.php
+12 : www.ics.uci.edu/community/news/index.php
+13 : www.ics.uci.edu/about/search/search_graduate_all.php
+14 : www.ics.uci.edu/about/videos/index.php
+15 : www.ics.uci.edu/ugrad/sao/index.php
+16 : www.ics.uci.edu/about/bren/bren_advance.php
+17 : www.ics.uci.edu/ugrad/resources/ICS_StudentOrgs.php
+18 : www.ics.uci.edu/community/news/brenbits/brenbits-winter2016.php
+19 : www.ics.uci.edu/community/
+20 : www.ics.uci.edu/~jurngyup/
+21 : www.ics.uci.edu/~msadri/
+22 : www.ics.uci.edu/community/news/brenbits/brenbits-summer2013
+23 : www.ics.uci.edu/ugrad/QA_Petitions.php
+24 : ugradforms.ics.uci.edu/
+25 : www.ics.uci.edu/faculty/highlights/
+26 : www.ics.uci.edu/community/news/brenbits/brenbits-fall2013
+27 : www.ics.uci.edu/community/news/brenbits/brenbits-fall2014
+28 : www.ics.uci.edu/ugrad/policies/Laptop_ComputerUse.php
+29 : www.ics.uci.edu/ugrad/degrees/Second_BA.php
+30 : www.ics.uci.edu/ugrad/policies/Computer_Copyrights.php
+31 : www.ics.uci.edu/ugrad/degrees/Second_BA_INF.php
+32 : hombao.ics.uci.edu/
+33 : www.ics.uci.edu/ugrad/policies/Add_Drop_ChangeOption.php
+34 : www.ics.uci.edu/about/search/index.php
+35 : www.ics.uci.edu/ugrad/degrees/Second_BA_CSE.php
+36 : www.ics.uci.edu/ugrad/policies/Computer_Ethics.php
+37 : www.ics.uci.edu/ugrad/policies/Computer_Acct_Backup.php
+38 : www.ics.uci.edu/ugrad/policies/Computer_DisciplinaryProcedures.php
+39 : www.ics.uci.edu/ugrad/degrees/
+40 : www.ics.uci.edu/~darkhipo/
+41 : radicle.ics.uci.edu/
+42 : asterix.ics.uci.edu/
+43 : asterix.ics.uci.edu/team.html
+44 : asterix.ics.uci.edu/news.html
+45 : asterix.ics.uci.edu/download/0.8.5/notes.html
+46 : asterix.ics.uci.edu/download.html
+47 : asterix.ics.uci.edu/download/0.8.3/notes.html
+48 : asterix.ics.uci.edu/download/0.8.6/notes.html
+49 : asterix.ics.uci.edu/talks.html
+50 : isg.ics.uci.edu/scalable_dm_lectures2009-10.html
+51 : asterix.ics.uci.edu/index.html
+52 : asterix.ics.uci.edu/contact.html
+53 : isg.ics.uci.edu/
+54 : isg.ics.uci.edu/isg_photo.html
+55 : asterix.ics.uci.edu/publications.html
+56 : asterix.ics.uci.edu/documentation/index.html
+57 : flamingo.ics.uci.edu/releases/4.1/
+58 : asterix.ics.uci.edu/documentation/install.html
+59 : asterixdb.ics.uci.edu/fuzzyjoin/
+60 : asterix.ics.uci.edu/sponsors.html
+61 : asterixdb.ics.uci.edu/fuzzyjoin/FAQ.html
+62 : asterix.ics.uci.edu/documentation/aql/similarity.html
+63 : asterix.ics.uci.edu/documentation/aql/js-sdk.html
+64 : asterixdb.ics.uci.edu/fuzzyjoin/CHANGELOG.html
+65 : asterixdb.ics.uci.edu/download.html
+66 : asterixdb.ics.uci.edu/talks.html
+67 : asterix.ics.uci.edu/documentation/aql/functions.html
+68 : asterixdb.ics.uci.edu/fuzzyjoin/README.html
+69 : asterix.ics.uci.edu/documentation/aql/manual.html
+70 : asterix.ics.uci.edu/documentation/aql/datamodel.html
+71 : asterixdb.ics.uci.edu/contact.html
+72 : asterix.ics.uci.edu/documentation/aql/externaldata.html
+73 : asterix.ics.uci.edu/documentation/aql/primer.html
+74 : asterixdb.ics.uci.edu/download/0.8.5/notes.html
+75 : asterix.ics.uci.edu/documentation/aql/allens.html
+76 : asterixdb.ics.uci.edu/documentation/install.html
+77 : asterixdb.ics.uci.edu/documentation/aql/manual.html
+78 : asterixdb.ics.uci.edu/sponsors.html
+79 : asterixdb.ics.uci.edu/
+80 : asterix.ics.uci.edu/documentation/api.html
+81 : asterixdb.ics.uci.edu/download/0.8.6/notes.html
+82 : asterixdb.ics.uci.edu/documentation/aql/externaldata.html
+83 : asterixdb.ics.uci.edu/documentation/api.html
+84 : asterixdb.ics.uci.edu/download/0.8.3/notes.html
+85 : asterixdb.ics.uci.edu/documentation/aql/js-sdk.html
+86 : asterixdb.ics.uci.edu/index.html
+87 : asterixdb.ics.uci.edu/documentation/aql/similarity.html
+88 : asterixdb.ics.uci.edu/documentation/aql/allens.html
+89 : asterixdb.ics.uci.edu/publications.html
+90 : asterixdb.ics.uci.edu/documentation/aql/datamodel.html
+91 : asterixdb.ics.uci.edu/documentation/aql/primer.html
+92 : asterixdb.ics.uci.edu/documentation/index.html
+93 : asterixdb.ics.uci.edu/documentation/aql/functions.html
+94 : asterixdb.ics.uci.edu/news.html
+95 : asterixdb.ics.uci.edu/team.html
+96 : isg.ics.uci.edu/events.html
+97 : isg.ics.uci.edu/people.html
+98 : isg.ics.uci.edu/courses.html
+99 : flamingo.ics.uci.edu/index.html
+100 : flamingo.ics.uci.edu/releases/4.1/docs/GettingStartedDoc.html
+101 : flamingo.ics.uci.edu/toolkit/
+102 : flamingo.ics.uci.edu/releases/4.1/docs/index.html
+103 : flamingo.ics.uci.edu/releases/4.1/docs/StringMapDoc.html
+104 : flamingo.ics.uci.edu/releases/4.0/
+105 : flamingo.ics.uci.edu/toolkit/docs/UdfDoc.html
+106 : flamingo.ics.uci.edu/releases/
+107 : flamingo.ics.uci.edu/releases/1.0/
+108 : flamingo.ics.uci.edu/releases/4.1/docs/UtilDoc.html
+109 : flamingo.ics.uci.edu/releases/4.1/docs/CompileDoc.html
+110 : flamingo.ics.uci.edu/spellchecker/
+111 : flamingo.ics.uci.edu/releases/?C=S%3BO%3DA
+112 : flamingo.ics.uci.edu/releases/apache.footer.html
+113 : flamingo.ics.uci.edu/releases/?C=N%3BO%3DD
+114 : flamingo.ics.uci.edu/releases/apache.header.html
+115 : flamingo.ics.uci.edu/releases/?C=D%3BO%3DA
+116 : flamingo.ics.uci.edu/releases/?C=M%3BO%3DA
+117 : flamingo.ics.uci.edu/toolkit/src/
+118 : flamingo.ics.uci.edu/releases/4.0/docs/CommonDoc.html
+119 : flamingo.ics.uci.edu/releases/4.0/src/
+120 : flamingo.ics.uci.edu/releases/4.0/docs/PartEnumDoc.html
+121 : flamingo.ics.uci.edu/releases/4.0/docs/ListMergerDoc.html
+122 : flamingo.ics.uci.edu/releases/4.0/docs/SepiaDoc.html
+123 : flamingo.ics.uci.edu/releases/4.0/docs/GettingStartedDoc.html
+124 : flamingo.ics.uci.edu/releases/4.0/docs/LbakTreeDoc.html
+125 : flamingo.ics.uci.edu/releases/4.0/docs/
+126 : flamingo.ics.uci.edu/releases/4.0/docs/MatTreeDoc.html
+127 : flamingo.ics.uci.edu/releases/4.0/docs/TopkDoc.html
+128 : flamingo.ics.uci.edu/releases/4.0/docs/StringMapDoc.html
+129 : flamingo.ics.uci.edu/releases/4.0/docs/FilterTreeDoc.html
+130 : flamingo.ics.uci.edu/toolkit/docs/
+131 : flamingo.ics.uci.edu/releases/1.0/download/
+132 : flamingo.ics.uci.edu/releases/1.0/src/
+133 : flamingo.ics.uci.edu/releases/1.0/docs/
+134 : flamingo.ics.uci.edu/releases/4.1/docs/SepiaDoc.html
+135 : flamingo.ics.uci.edu/releases/4.1/src/
+136 : flamingo.ics.uci.edu/releases/4.1/docs/CommonDoc.html
+137 : flamingo.ics.uci.edu/releases/4.1/docs/TopkDoc.html
+138 : flamingo.ics.uci.edu/releases/4.1/docs/ListMergerDoc.html
+139 : flamingo.ics.uci.edu/releases/4.1/docs/
+140 : flamingo.ics.uci.edu/releases/4.1/docs/LbakTreeDoc.html
+141 : flamingo.ics.uci.edu/releases/2.0/
+142 : flamingo.ics.uci.edu/releases/2.0.1/
+143 : flamingo.ics.uci.edu/releases/3.0/
+144 : psearch.ics.uci.edu/
+145 : flamingo.ics.uci.edu/releases/4.1/src/util/
+146 : flamingo.ics.uci.edu/releases/4.1/src/topk/
+147 : flamingo.ics.uci.edu/releases/4.1/src/?C=N%3BO%3DD
+148 : flamingo.ics.uci.edu/releases/4.1/src/?C=M%3BO%3DA
+149 : flamingo.ics.uci.edu/releases/4.1/src/?C=S%3BO%3DA
+150 : flamingo.ics.uci.edu/releases/4.1/src/stringmap/
+151 : flamingo.ics.uci.edu/releases/4.1/src/filtertree/
+152 : flamingo.ics.uci.edu/releases/4.1/src/lbaktree/
+153 : flamingo.ics.uci.edu/releases/4.1/src/listmerger/
+154 : flamingo.ics.uci.edu/releases/4.1/src/partenum/
+155 : flamingo.ics.uci.edu/releases/4.1/src/mattree/
+156 : flamingo.ics.uci.edu/releases/4.1/src/?C=D%3BO%3DA
+157 : flamingo.ics.uci.edu/releases/4.1/src/sepia/
+158 : flamingo.ics.uci.edu/toolkit/docs/index.html
+159 : flamingo.ics.uci.edu/releases/4.1/src/common/
+160 : flamingo.ics.uci.edu/releases/3.0/docs/SepiaDoc.html
+161 : jujube.ics.uci.edu/localsearch/fuzzysearch/
+162 : flamingo.ics.uci.edu/releases/3.0/docs/MatTreeDoc.html
+163 : psearch.ics.uci.edu/about.html
+164 : flamingo.ics.uci.edu/releases/4.1/src/mattree/?C=S%3BO%3DA
+165 : flamingo.ics.uci.edu/releases/4.1/src/util/build/
+166 : grape.ics.uci.edu/wiki/asterix/wiki/cs295-2011-fall
+167 : flamingo.ics.uci.edu/releases/4.1/src/util/?C=D%3BO%3DA
+168 : isg.ics.uci.edu/news.html
+169 : flamingo.ics.uci.edu/releases/4.1/src/util/?C=N%3BO%3DD
+170 : flamingo.ics.uci.edu/releases/4.1/src/util/?C=M%3BO%3DA
+171 : isg.ics.uci.edu/index.html
+172 : isg.ics.uci.edu/publications.html
+173 : flamingo.ics.uci.edu/releases/4.1/src/util/?C=S%3BO%3DA
+174 : isg.ics.uci.edu/partnerships.html
+175 : www.ics.uci.edu/%7elab/students/acct_activate.php
+176 : flamingo.ics.uci.edu/releases/4.1/src/util/src/
+177 : www.ics.uci.edu/grad/courses/index
+178 : www.ics.uci.edu/about/search/search_facilities.php
+179 : www.ics.uci.edu/about/search/search_graduate.php
+180 : www.ics.uci.edu/grad/policies/index
+181 : hombao.ics.uci.edu/?s=education
+182 : flamingo.ics.uci.edu/releases/4.1/src/topk/?C=D%3BO%3DA
+183 : flamingo.ics.uci.edu/releases/4.1/src/topk/src/
+184 : www.ics.uci.edu/~dvk/CS295.html
+185 : www.ics.uci.edu/computing/services/snapshot.php
+186 : isg.ics.uci.edu/research.html
+187 : www.ics.uci.edu/ugrad/degrees/degree_datascience.php
+188 : flamingo.ics.uci.edu/releases/4.1/src/mattree/?C=N%3BO%3DD
+189 : flamingo.ics.uci.edu/releases/4.1/src/topk/?C=N%3BO%3DD
+190 : flamingo.ics.uci.edu/releases/4.1/src/topk/?C=M%3BO%3DA
+191 : flamingo.ics.uci.edu/releases/4.1/src/topk/build/
+192 : flamingo.ics.uci.edu/releases/4.1/src/mattree/?C=M%3BO%3DA
+193 : flamingo.ics.uci.edu/releases/4.1/src/topk/?C=S%3BO%3DA
+194 : flamingo.ics.uci.edu/releases/4.1/src/stringmap/?C=D%3BO%3DA
+195 : flamingo.ics.uci.edu/releases/4.1/src/stringmap/?C=N%3BO%3DD
+196 : flamingo.ics.uci.edu/releases/4.1/src/stringmap/?C=M%3BO%3DA
+197 : flamingo.ics.uci.edu/releases/4.1/src/stringmap/build/
+198 : flamingo.ics.uci.edu/releases/4.1/src/stringmap/?C=S%3BO%3DA
+199 : flamingo.ics.uci.edu/releases/4.1/src/sepia/?C=S%3BO%3DA
+200 : flamingo.ics.uci.edu/releases/4.1/src/stringmap/src/
+201 : flamingo.ics.uci.edu/releases/4.1/src/sepia/?C=D%3BO%3DA
+202 : flamingo.ics.uci.edu/releases/4.1/src/filtertree/?C=D%3BO%3DA
+203 : flamingo.ics.uci.edu/releases/4.1/src/sepia/?C=N%3BO%3DD
+204 : flamingo.ics.uci.edu/releases/4.1/src/filtertree/?C=N%3BO%3DD
+
+
+1 : Donald Bren School of Information and Computer Sciences @ University of California, Irvine
+2 : Welcome from the Dean @ Bren School of Information and Computer Sciences
+3 : undergraduate education @ the bren school of information and computer sciences
+4 : safety procedures @ the bren school of information and computer sciences
+5 : Alumni from the Donald Bren School of Information and Computer Sciences
+6 : about the bren gift @ the bren school of information and computer sciences
+7 : withdrawal and readmission @ the bren school of information and computer sciences
+8 : about the bren gift @ the bren school of information and computer sciences
+9 : ics student opportunities @ the bren school of information and computer sciences
+10 : undergraduate education @ the bren school of information and computer sciences
+11 : Alumni from the Donald Bren School of Information and Computer Sciences
+12 : ICS News @ the Donald Bren School of Information and Computer Sciences
+13 : graduate student list @ the bren school of information and computer sciences
+14 : itunes u @ the bren school of information and computer sciences
+15 : academic advising @ the bren school of information and computer sciences
+16 : advancing the school @ the bren school of information and computer sciences
+17 : ics student organizations @ the bren school of information and computer sciences
+18 : Brenbits Winter 2016
+19 : Community @ the bren school of information and computer sciences
+20 : Jurngyu Park
+21 : 
+22 : Brenbits Summer 2013
+23 : ics petitions @ the bren school of information and computer sciences
+24 : ICS SAO Prerequisite Clearing System
+25 : research highlights @ the bren school of information and computer sciences
+26 : Brenbits Fall 2013
+27 : Brenbits Fall 2014
+28 : laptop and computer use @ the bren school of information and computer sciences
+29 : ics second baccalaureate @ the bren school of information and computer sciences
+30 : copyright infringement @ the bren school of information and computer sciences
+31 : in4matx second baccalaureate @ the bren school of information and computer sciences
+32 : Space-Time Modeling
+33 : add, drop, and change options @ the bren school of information and computer sciences
+34 : search @ the bren school of information and computer sciences
+35 : cse second baccalaureate @ the bren school of information and computer sciences
+36 : ethical use of computing @ the bren school of information and computer sciences
+37 : account allocation and backups @ the bren school of information and computer sciences
+38 : computer use disciplinary procedures @ the bren school of information and computer sciences
+39 : ics majors @ the bren school of information and computer sciences
+40 : Dmitri Ivanovich Arkhipov
+41 : null
+42 : AsterixDB
+43 : AsterixDB Team
+44 : Asterix News
+45 : Release Notes
+46 : Asterix Download
+47 : Release Notes
+48 : Release Notes
+49 : Asterix Talks
+50 : UCI ISG Lecture Series on Scalable Data Management
+51 : AsterixDB
+52 : ASTERIX - Contact Us
+53 : ISG
+54 : null
+55 : Asterix Publications
+56 : AsterixDB -
+57 : FLAMINGO Package (Approximate String Matching) Release 4.1
+58 : AsterixDB -
+59 : Efficient Parallel Set-Similarity Joins Using
+60 : Asterix Sponsors
+61 : FAQ
+62 : AsterixDB -
+63 : AsterixDB -
+64 : CHANGELOG
+65 : Asterix Download
+66 : Asterix Talks
+67 : AsterixDB -
+68 : README
+69 : AsterixDB -
+70 : AsterixDB -
+71 : ASTERIX - Contact Us
+72 : AsterixDB -
+73 : AsterixDB -
+74 : Release Notes
+75 : AsterixDB -
+76 : AsterixDB -
+77 : AsterixDB -
+78 : Asterix Sponsors
+79 : AsterixDB
+80 : AsterixDB -
+81 : Release Notes
+82 : AsterixDB -
+83 : AsterixDB -
+84 : Release Notes
+85 : AsterixDB -
+86 : AsterixDB
+87 : AsterixDB -
+88 : AsterixDB -
+89 : Asterix Publications
+90 : AsterixDB -
+91 : AsterixDB -
+92 : AsterixDB -
+93 : AsterixDB -
+94 : Asterix News
+95 : AsterixDB Team
+96 : ISG
+97 : ISG
+98 : ISG
+99 : The FLAMINGO Project on Data Cleaning
+100 : GettingStartedDoc ¨C
+101 : FLAMINGO Toolkit
+102 : Wiki Index
+103 : StringMapDoc ¨C
+104 : FLAMINGO Package (Approximate String Matching) Release 4.0
+105 : UdfDoc - Chen Li -- Group - Trac
+
+
+DOCID:8725
+Outlinks are:11096 8726 8725 8815 
+DOCID:8726
+Outlinks are:8727 8728 8729 8730 8731 8732 8733 8734 8735 8736 8725 8737 8738 8739 8740 
+DOCID:8727
+Outlinks are:8728 8727 8729 8730 8726 8725 8738 
+DOCID:8728
+Outlinks are:8726 8730 8725 8732 
+DOCID:8729
+Outlinks are:8726 8727 8728 8730 8725 8733 
+DOCID:8730
+Outlinks are:8726 8729 8725 8738 8734 
+DOCID:8731
+Outlinks are:8726 8728 8730 8725 8732 8734 
+DOCID:8732
+Outlinks are:8726 8728 8730 8725 8731 
+DOCID:8733
+Outlinks are:8726 8728 8727 8729 8730 8725 8740 
+DOCID:8734
+Outlinks are:8727 8728 8730 8731 8734 8726 8725 8738 
+DOCID:8735
+Outlinks are:8726 8730 8725 8739 8740 
+DOCID:8736
+Outlinks are:8726 8730 8725 8737 8739 
+DOCID:8737
+Outlinks are:8726 8736 8730 8725 
+DOCID:8738
+Outlinks are:8726 8727 8728 8730 8725 8734 
+DOCID:8739
+Outlinks are:8726 8735 8736 8730 8725 
+DOCID:8740
+Outlinks are:8726 8728 8735 8730 8725 8733 
+DOCID:8741
+Outlinks are:8742 8744 8725 8749 8760 
+DOCID:8742
+Outlinks are:8743 8746 8754 8770 8725 8777 8781 8791 8794 8800 
+DOCID:8743
+Outlinks are:8742 8725 8745 
+DOCID:8744
+Outlinks are:8748 8750 8758 
+DOCID:8745
+Outlinks are:8747 8743 8752 8756 
+DOCID:8746
+Outlinks are:8753 8742 8725 
+DOCID:8747
+Outlinks are:8747 8752 8725 
+DOCID:8748
+Outlinks are:8751 
+DOCID:8749
+Outlinks are:8759 8761 8763 8766 8772 8774 8725 8784 8786 8788 8790 8792 8796 8802 8803 8805 8806 8808 8809 8810 8811 
+DOCID:8750
+Outlinks are:
+DOCID:8751
+Outlinks are:8757 
+DOCID:8752
+Outlinks are:8747 8745 
+DOCID:8753
+Outlinks are:8755 8747 8746 
+DOCID:8754
+Outlinks are:8742 8800 8725 
+DOCID:8755
+Outlinks are:8747 8753 
+DOCID:8756
+Outlinks are:8747 8745 
+DOCID:8757
+Outlinks are:
+DOCID:8758
+Outlinks are:
+DOCID:8759
+Outlinks are:8761 8725 8749 8810 8788 8790 
+DOCID:8760
+Outlinks are:8725 
+DOCID:8761
+Outlinks are:8762 8725 8749 8788 
+DOCID:8762
+Outlinks are:8764 8761 8767 
+DOCID:8763
+Outlinks are:8765 8761 8725 8809 8749 8788 8792 
+DOCID:8764
+Outlinks are:8768 8764 8788 
+DOCID:8765
+Outlinks are:8773 8764 8763 
+DOCID:8766
+Outlinks are:8771 8761 8725 8808 8749 8788 
+DOCID:8767
+Outlinks are:8762 8764 8769 
+DOCID:8768
+Outlinks are:8779 8764 
+DOCID:8769
+Outlinks are:8764 8767 8778 
+DOCID:8770
+Outlinks are:8742 8725 
+DOCID:8771
+Outlinks are:8776 8764 8782 8766 
+DOCID:8772
+Outlinks are:8796 8775 8761 8725 8749 8786 8788 
+DOCID:8773
+Outlinks are:8764 8765 8792 
+DOCID:8774
+Outlinks are:8761 8805 8725 8784 8749 8788 
+DOCID:8775
+Outlinks are:8772 8764 
+DOCID:8776
+Outlinks are:8783 8764 8808 8771 
+DOCID:8777
+Outlinks are:8742 8725 
+DOCID:8778
+Outlinks are:8764 8769 8780 
+DOCID:8779
+Outlinks are:8768 8803 8764 
+DOCID:8780
+Outlinks are:8764 8806 8778 
+DOCID:8781
+Outlinks are:8794 8742 8725 
+DOCID:8782
+Outlinks are:8764 8771 
+DOCID:8783
+Outlinks are:8776 8764 
+DOCID:8784
+Outlinks are:8785 8761 8774 8725 8749 8788 
+DOCID:8785
+Outlinks are:8764 8787 8784 
+DOCID:8786
+Outlinks are:8761 8772 8725 8749 8788 
+DOCID:8787
+Outlinks are:8785 8764 8789 
+DOCID:8788
+Outlinks are:8761 8764 8725 8749 
+DOCID:8789
+Outlinks are:8764 8787 8810 
+DOCID:8790
+Outlinks are:8759 8761 8725 8749 8788 
+DOCID:8791
+Outlinks are:8742 8725 8793 
+DOCID:8792
+Outlinks are:8761 8763 8773 8725 8749 8788 
+DOCID:8793
+Outlinks are:8747 8795 8791 8798 
+DOCID:8794
+Outlinks are:8742 8725 8799 8781 
+DOCID:8795
+Outlinks are:8747 8797 8793 
+DOCID:8796
+Outlinks are:8761 8772 8805 8725 8749 8788 
+DOCID:8797
+Outlinks are:8747 8801 8795 
+DOCID:8798
+Outlinks are:8747 8793 
+DOCID:8799
+Outlinks are:8747 8801 8794 
+DOCID:8800
+Outlinks are:8754 8742 8725 
+DOCID:8801
+Outlinks are:8747 8799 8797 
+DOCID:8802
+Outlinks are:8761 8725 8749 8788 
+DOCID:8803
+Outlinks are:8804 8761 8779 8725 8749 8788 
+DOCID:8804
+Outlinks are:8761 8803 8725 8749 8788 
+DOCID:8805
+Outlinks are:8796 8761 8807 8774 8725 8749 8788 
+DOCID:8806
+Outlinks are:8761 8780 8725 8749 8788 
+DOCID:8807
+Outlinks are:8805 8764 
+DOCID:8808
+Outlinks are:8761 8766 8776 8725 8749 8788 
+DOCID:8809
+Outlinks are:8761 8763 8725 8749 8788 
+DOCID:8810
+Outlinks are:8759 8789 8761 8725 8749 8788 
+DOCID:8811
+Outlinks are:8761 8812 8725 8749 8788 
+DOCID:8812
+Outlinks are:8764 8813 8811 
+DOCID:8813
+Outlinks are:8812 8764 
+DOCID:8814
+Outlinks are:3915 9056 11096 4882 10562 2328 10563 
+DOCID:8815
+Outlinks are:11096 11211 8816 8725 8817 8815 
+DOCID:8816
+Outlinks are:8818 8819 8820 8822 8823 8824 8827 8831 8832 8833 8834 8836 8838 8840 8844 8846 
+DOCID:8817
+Outlinks are:8817 
+DOCID:8818
+Outlinks are:
+DOCID:8819
+Outlinks are:8819 8821 
+DOCID:8820
+Outlinks are:8820 8815 
+DOCID:8821
+Outlinks are:8821 11096 11211 8816 8725 8817 
+DOCID:8822
+Outlinks are:
+DOCID:8823
+Outlinks are:8825 8823 8829 11096 8815 
+DOCID:8824
+Outlinks are:8826 8824 8828 8830 11096 8815 
+DOCID:8825
+Outlinks are:
+DOCID:8826
+Outlinks are:
+DOCID:8827
+Outlinks are:8827 11096 8815 
+DOCID:8828
+Outlinks are:
+DOCID:8829
+Outlinks are:8823 
+DOCID:8830
+Outlinks are:
+DOCID:8831
+Outlinks are:8831 11096 8815 
+DOCID:8832
+Outlinks are:
+DOCID:8833
+Outlinks are:8835 8837 8842 8815 8833 
+DOCID:8834
+Outlinks are:8834 11096 8815 
+DOCID:8835
+Outlinks are:
+DOCID:8836
+Outlinks are:8836 8815 
+DOCID:8837
+Outlinks are:
+DOCID:8838
+Outlinks are:8826 8839 8841 8843 8838 11096 8845 8815 
+DOCID:8839
+Outlinks are:
+DOCID:8840
+Outlinks are:9067 8840 8815 
+DOCID:8841
+Outlinks are:
+DOCID:8842
+Outlinks are:
+DOCID:8843
+Outlinks are:8843 
+DOCID:8844
+Outlinks are:8844 8815 
+DOCID:8845
+Outlinks are:
+DOCID:8846
+Outlinks are:8846 11096 8815 
+DOCID:11096
+Outlinks are:10949 11037 11111 10692 11173 11116 11118 11123 11130 11106 10807 11229 10674 11210 11217 11096 11193 11033 11094 10996 11009 11063 11189 11194 11024 11211 11149 10985 11206 11226 11070 11190 10782 11234 11137 11222 11232 11099 11225 11227 11104 807 11112 11165 11102 11072 11095 11097 11128 11126 10956 9048 
+DOCID:10949
+Outlinks are:10949 11037 11220 11111 10692 11173 11116 11118 11123 11130 11106 11229 10674 11210 11217 11064 11096 10 11162 11193 11033 11094 10996 11009 11063 11189 11194 11024 11211 11149 10985 11206 11226 11070 11190 10782 11234 11137 11222 11232 11225 11227 807 11233 11112 11165 11102 10757 11072 11095 11097 11128 11126 11034 10956 9048 
+DOCID:11095
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 10783 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 10953 11182 10956 9048 11201 
+DOCID:11220
+Outlinks are:10949 11037 10692 11123 11130 11106 11210 11217 11096 10 11162 11193 11094 11063 11194 11211 11149 11206 11226 10782 11234 11137 11222 11232 807 11233 11112 11165 11095 11128 11126 11034 11220 11111 11173 11116 11118 11229 10674 11064 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 10757 11072 11097 10956 9048 
+DOCID:11037
+Outlinks are:10949 11037 10692 11123 11130 11106 11210 11217 11096 11160 11193 11094 11063 11194 11211 11149 11206 11226 10782 11234 11137 11222 11232 11069 807 11112 11165 11134 11095 11128 11082 11126 11111 11173 11116 11118 11229 10674 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11183 11102 11072 11097 10956 9048 11200 
+DOCID:11064
+Outlinks are:10949 10724 11037 11220 11111 10692 11173 11116 11118 11123 11130 11106 10737 10738 11229 10674 11210 11217 11064 11096 10 11162 11193 11033 11094 10996 11009 11063 11189 11194 11024 11211 11149 10985 11206 11226 11070 11190 10782 11234 11137 11222 11232 11225 11227 807 11233 11112 11165 11102 10757 11072 11095 11097 11128 11126 10956 9048 
+DOCID:11097
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11004 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11231 807 11103 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 11108 10953 11182 10956 9048 11201 
+DOCID:10724
+Outlinks are:10949 10724 11037 11220 11111 10692 11173 11116 11118 11123 11130 11106 10737 10738 11229 10674 11210 11217 11064 11096 10 11162 11193 11033 11094 10996 11009 11063 11189 11194 11024 11211 11149 10985 11206 11226 11070 11190 10782 11234 11137 11222 11232 11225 11227 807 11233 11112 11165 11102 10757 11072 11095 11097 11128 11126 10956 9048 
+DOCID:11138
+Outlinks are:10949 11037 11138 10692 11123 11130 11106 17 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 10775 11137 11222 11232 11001 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10780 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11187 11072 11097 10953 11182 10956 9048 11201 
+DOCID:10
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 10783 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 10953 11182 10956 9048 11201 
+DOCID:11160
+Outlinks are:10949 11037 10692 11123 11130 11106 11210 11217 11096 11160 11193 11094 11063 11194 11211 11149 11206 11226 10782 11234 11137 11222 11232 11069 807 11112 11165 11134 11095 11128 11082 11126 11111 11173 11116 11118 11229 10674 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11183 11102 11072 11097 10956 9048 11200 
+DOCID:11069
+Outlinks are:10949 11037 11111 10692 11173 11116 11118 11123 11130 11106 10807 11229 10674 11210 11217 11184 11096 11160 11193 11033 11094 10996 11009 11063 11189 11194 11024 11211 11149 10985 11206 11226 11070 11190 10782 11234 11137 11222 11232 11225 11227 11069 807 11199 11183 11112 11165 11102 11072 11095 11097 11128 11124 11082 11126 11129 10956 9048 11200 
+DOCID:11111
+Outlinks are:10949 11037 10692 11123 11130 11106 11210 11217 11096 10 11162 11193 11153 11094 11063 11194 11211 11149 11206 11226 10782 11234 11137 11222 11232 807 11233 11112 11165 11095 11128 11126 11034 11220 11111 11173 11116 11118 11229 10674 11064 10997 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 10757 11072 11097 10956 9048 
+DOCID:11162
+Outlinks are:10949 11037 11220 11111 10692 11173 11116 11118 11123 11130 11106 11229 10674 11210 11217 11064 11096 11162 10 11193 11033 11224 11094 10996 11009 11063 11189 11194 11024 11211 11149 10985 11206 11226 11070 11190 10782 11234 11137 11222 11232 11225 11227 807 11233 11112 11165 11102 10757 11072 11095 11097 11128 11126 11034 10956 9048 
+DOCID:10990
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 10783 11231 807 11112 11165 11110 11095 10817 11128 11126 11113 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 10953 11182 10956 9048 11201 
+DOCID:10737
+Outlinks are:10949 10724 11037 11220 11111 10692 11173 11116 11118 11123 11130 11106 10737 10738 11229 10674 11210 11217 11064 11096 10 11162 11193 11033 11094 10996 11009 11063 11189 11194 11024 11211 11149 10985 11206 11226 11070 11190 10782 11234 11137 11222 11232 11225 11227 807 11233 11112 11165 11102 10757 11072 11095 11097 11128 11126 10956 9048 
+DOCID:17
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 17 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11187 11072 11097 10953 11182 10956 9048 11201 
+DOCID:11129
+Outlinks are:10949 11037 10692 11123 11130 11106 11210 11217 11096 11193 11094 11063 11194 11211 11149 11206 11226 10782 11234 11137 11222 11232 807 11112 11165 11095 11128 11126 22 11111 11173 11116 11118 11155 11229 11158 10674 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 26 27 11129 10956 9048 11200 
+DOCID:11200
+Outlinks are:10949 11037 11111 10692 11173 11116 11118 11123 11130 11106 11229 10674 11210 11217 11096 11160 11193 11033 11094 10996 11009 11063 11189 11194 11024 11211 11149 10985 11206 11226 11070 11190 10782 11234 11137 11222 11232 11225 11227 807 11183 11112 11165 11102 11072 11095 11097 11128 11126 10956 9048 11200 
+DOCID:10954
+Outlinks are:11096 11143 
+DOCID:21
+Outlinks are:
+DOCID:22
+Outlinks are:10949 11037 10692 11123 11130 11106 11210 11217 11096 11193 11094 11063 11194 11211 11149 11206 11226 10782 11234 11137 11222 11232 807 11112 11165 11095 11128 11126 22 11111 11173 11116 11118 11229 10674 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 10956 9048 11200 
+DOCID:10817
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 24 10953 11182 10956 9048 11201 
+DOCID:24
+Outlinks are:
+DOCID:11130
+Outlinks are:10949 11037 11152 11111 10692 11173 11116 11118 11123 11130 11106 11229 10674 11210 11217 11096 11193 11033 11041 11094 10996 11009 11063 11189 11194 11024 11211 11149 10985 11206 11226 11070 11190 10782 11234 11137 11222 11232 11225 11227 807 11112 11165 11102 11072 32 11095 11097 11128 41 11126 11052 42 10956 9048 
+DOCID:26
+Outlinks are:10949 11037 10692 11123 11130 11106 11210 11217 11096 11193 11094 11063 11194 11211 11149 11206 11226 10782 11234 11137 11222 11232 807 11112 11165 11095 11128 11126 22 11111 11173 11116 11118 11155 11229 10674 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 26 10956 9048 11200 
+DOCID:27
+Outlinks are:10949 11037 10692 11123 11130 11106 11210 11217 11096 11193 11094 11063 11194 11211 11149 11206 11226 10782 11234 11137 11222 11232 807 11112 11165 11095 11128 11126 22 11111 11173 11116 11118 11155 11229 11158 10674 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 26 27 10956 9048 11200 
+DOCID:10953
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11231 807 11112 11165 11110 11095 10817 11128 11126 10966 11111 11173 11116 11118 11161 10968 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 37 10694 11102 11072 11097 10953 11108 11182 10956 9048 11201 
+DOCID:11182
+Outlinks are:10949 11037 11181 10692 11138 11123 11130 11106 35 11210 11217 11096 10990 10 11114 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11231 807 11112 11165 11110 11095 10817 11128 11126 11179 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 10953 11182 10956 9048 11201 
+DOCID:10966
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11231 807 11112 11165 11110 11095 10817 11128 11126 10966 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 11108 10953 11182 10956 9048 11201 
+DOCID:11181
+Outlinks are:10949 11037 11181 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11114 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 10953 11182 10956 9048 11201 
+DOCID:32
+Outlinks are:181 404 
+DOCID:11201
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 11108 10953 11182 10956 9048 11201 
+DOCID:10674
+Outlinks are:10949 11037 10692 11092 11123 11130 11106 11210 11217 11096 10 11162 11193 10688 11094 11063 11194 11211 11149 11206 11226 10782 11234 11137 11222 11232 807 10725 11233 11112 10707 11165 10754 11095 11128 11126 11034 11220 11111 11173 11116 11118 11229 10674 11064 10997 11033 10996 11009 11189 11024 10985 10736 11070 400 11190 11225 11227 11102 10757 11072 11097 10956 9048 
+DOCID:35
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 35 11210 11217 11096 10990 10 11114 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 10953 11182 10956 9048 11201 
+DOCID:10968
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11026 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 10968 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 11108 10953 11182 10956 9048 11201 
+DOCID:37
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 175 11225 11227 37 11000 11102 11072 11097 11108 10953 11182 10956 9048 11201 
+DOCID:11026
+Outlinks are:10949 11037 10692 11138 11123 11130 11106 11210 11217 11096 10990 10 11193 11133 11094 11063 11194 11211 11149 11206 11101 11226 10782 11234 11137 11222 11232 11001 11026 11231 807 11112 11165 11110 11095 10817 11128 11126 11111 11173 11116 11118 11161 11229 10674 11148 11033 10996 11009 11189 11024 10985 11070 11190 11225 11227 11102 11072 11097 11108 10953 11182 10956 9048 11201 

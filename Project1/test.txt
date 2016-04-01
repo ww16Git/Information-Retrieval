@@ -1,0 +1,14 @@
+1.	objective summary of the article (do not inject your views here, be objective);
+This article talks about the technical approach for information retrieval among documents or other text materials. This approach based the combination of several steps including: simple terms indexing, document matching based on term weighting and modification based on feedback. 
+
+Index terms are content words. For economy reasons, terms should be transferred to stems which is root of word and should be removed stop word which are high frequency used in human language. What¡¯s more, different terms may be weighted differently to improve retrieval performance.
+
+Term weighting is based on three statistic source: 1) Collection frequency which is the ratio between number of documents with terms and number of total collection. 2) Term frequency is the number of occurrences of term in the document. 3) Document length illustrate the ratio between one document term occurrences and that of average document. Then there is formula that combine these data and specific parameters to score the documents.
+
+The aim of iterative searching is to modify the initial search terms based on the feedback. And reweight search terms and adding new terms are two ways to realize it. And a formula combined relevance weights and query expansion to give new iterative weight.
+
+It is preferable to start from requests with at least 5 content terms. For longer query terms, the weight would be adjusted.
+
+
+2.	short personal commentary about the article (your views here)
+From reading this article, I gain the basic knowledge about the implementation of information retrieval. It focus on the terms filtering approach and weighting formula. While, I think there are still some issue should be discussed deeper to improve the retrieval efficiency. In all, it arise my interest for the further study. 

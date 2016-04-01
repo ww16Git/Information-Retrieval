@@ -1,0 +1,7 @@
+drzaius.ics.uci.edu : 66
+www.ics.uci.edu : 44
+www.ww1.uci.edu : 44
+aaa : 67
+wefa : 23
+a d g : 9
+sd sd sd : 8

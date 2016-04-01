@@ -1,0 +1,6 @@
+drzaius.ics.uci.edu : 33
+www.ics.uci.edu : 22
+drzaius.ics.uci.edu : 33
+www.ics.uci.edu : 22
+www.ww1.uci.edu : 22
+www.ww1.uci.edu : 22
